@@ -1,0 +1,12 @@
+.service{
+  height:250px;
+  background:#d9ffe5;
+  border: 1px solid black;
+}
+
+nav {
+  font-family: "ALK Rex Bold", sans-serif;
+}
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
