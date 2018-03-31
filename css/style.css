@@ -1,12 +1,89 @@
 .service{
-  height:250px;
-  background:#d9ffe5;
-  border: 1px solid black;
+  height: 100%;
+margin-bottom: 5%;
 }
 
-nav {
-  font-family: "ALK Rex Bold", sans-serif;
+.zoma{
+padding-top: 10px;
 }
-body {
-  font-family: 'Roboto Condensed', sans-serif;
+
+.background{
+position: relative;
+max-width: 1920px;
+background-image: url('../images/topbanner.jpg');
+width: 100%;
+height: 400px;
+background-size: cover;
+background-position: center;
+}
+.text{
+background: rgba(24, 24, 25, 0.49);
+color:#fff;
+top: 30%;
+font-size: 30px;
+position:absolute;
+right: 0px;
+padding:12px;
+margin-left: 70%;
+
+
+}
+.hex {
+clip-path: polygon(100% 0, 100% 50%, 50% 100%, 0 50%, 0 0);
+
+background: #f86908;
+position: relative;
+max-width: 1920px;
+
+}
+.header{
+padding-bottom: 4%;
+padding-top: 2%;
+font-size: 30px;
+color: white;
+}
+
+
+
+.img{
+width: 30%;
+
+}
+
+.se2{
+clip-path: polygon(50% 8%, 100% 0, 100% 96%, 50% 100%, 0 96%, 0 0);
+height: 100%;
+background-color: rgb(240, 242, 237);
+padding-top: 120px;
+/* padding-bottom: 4%; */
+position: relative;
+max-width: 1920px}
+
+.se3{
+clip-path: polygon(50% 8%, 100% 0, 100% 96%, 50% 100%, 0 96%, 0 0);
+height: 100%;
+background-color: #ffffff;
+padding-top: 120px;
+/* padding-bottom: 4%; */
+position: relative;
+max-width: 1920px}
+
+.centerstyle{
+margin-bottom: 10%
+}
+
+h3{
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+.descr{
+  color:#a1a1a1;
+  font-size:20px;
+}
+.patterns{
+  width: 100%;
+  padding:12;
+}
+.solution1{
+background-color: #f0f2ed;
 }
