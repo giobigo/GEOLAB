@@ -1,3 +1,6 @@
+body{
+  overflow-x: hidden;
+}
 .service{
   height: 100%;
   margin-bottom: 5%;
